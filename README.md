@@ -17,5 +17,5 @@ Skills: Credentialing/ CRM / Data Analysis and Visualization / Python / HTML
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammad-Nayeem-Jahangir&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mohammad-Nayeem-Jahangir)  
+
 
